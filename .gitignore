@@ -1,6 +1,9 @@
 # vim swap file.
 *.swp
 
+# ignore the buildout script
+bin/buildout
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
