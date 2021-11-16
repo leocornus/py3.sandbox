@@ -2,7 +2,9 @@
 *.swp
 
 # ignore the buildout script
-bin/buildout
+#bin/buildout
+# ignore the whole bin folder.
+bin/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
