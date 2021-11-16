@@ -5,6 +5,8 @@
 #bin/buildout
 # ignore the whole bin folder.
 bin/
+# ignore the generated /etc configuration folder.
+etc/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
