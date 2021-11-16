@@ -8,6 +8,9 @@ bin/
 # ignore the generated /etc configuration folder.
 etc/
 
+# ignore the virtualenv configuration file.
+pyvenv.cfg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
